@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{595:function(t,e,n){"use strict";n.r(e);var s=n(14),l=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[e("p",[this._v("欢迎来到小左同学的小程序学习笔记")])])}),[],!1,null,null,null);e.default=l.exports}}]);
